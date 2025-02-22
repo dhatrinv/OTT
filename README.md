@@ -4,9 +4,11 @@
 
 🔗 View Netflix UI on Figma : https://www.figma.com/design/cA9xaUWAvwevFkOlL8Izud/ott?node-id=0-1&t=RISh1ARtP7MoXtvu-1
 
+
 📖 About This Design
 
 This design includes:
+
 
 📺 Trending Section – Horizontal scroll for trending content.
 
@@ -14,7 +16,9 @@ This design includes:
 
 🌙 Dark-Themed UI – Sleek, modern, and visually appealing.
 
+
 🛠 How to Use
+
 
 1.Open the Figma link to explore the UI.
 
